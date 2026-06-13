@@ -1,0 +1,15 @@
+Implementar calendario de fechas disponibles para reservas
+Objetivo
+Permitir que los clientes consulten las fechas disponibles para reservar citas de acuerdo con la configuración establecida por el administrador.
+
+Checklist
+
+Diseñar interfaz de calendario.
+
+Mostrar fechas disponibles desde la fecha actual.
+
+Respetar el límite de días futuros configurado.
+
+Deshabilitar fechas no disponibles.
+
+Realizar pruebas de visualización en dispositivos móviles.
